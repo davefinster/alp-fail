@@ -107,6 +107,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Baird](https://twitter.com/danieljbaird/status/1070974654230102016)
 - [Daniel Burke](https://twitter.com/shortcutman_/status/1070974916374085633)
 - [Daniel Collins](https://dcollins.info/)
+- [Dave Finster](https://github.com/davefinster)
 - [Daniel Myles](https://mylesapart.io)
 - [Daniel Rea](https://twitter.com/DanRea86/status/1071320633525493760)
 - [Daniel Sykes-Turner](https://daniel.st)
